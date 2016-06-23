@@ -34,35 +34,36 @@ author:
       title: Software Engineer
       started: 2015
       duration: (April 2015 - Present)
-      description: Zone24x7 is one of the technology solution company which provides hardware and software solutions.
+      description: Zone24x7 is one of the technology solution company in Sri Lanka which provides hardware and software solutions. Around 1 year and 3 months, I worked here. I could able work in two projects, In the first project I have implemented Results Uploading Module and Messaging Module using Java Core, Swing, Spring, ActiveMQ, Apache Derby, Apache Velocity. In other project worked as the consultant for KOHLS department store USA. In this project, I have worked with Big Data related technologies and Java REST application using Play Framework.  Here I could able to get great exposure to Enterprise Level Applications which handles massive data.
     - work2:
       company: University of Moratuwa
       location: Colombo, Sri Lanka
       title: Visiting Instructor
       started: 2014
       duration: (November 2014 - April 2015)
-      description: Worked as Instructor to teach Programming Fundamentals and Python Language.
+      description: Worked as Instructor to teach Programming Fundamentals and Python Language. My job role was teaching and assisting students fundamentals of programming using Python Language.
     - work3:
       company: University of Moratuwa
       location: Colombo, Sri Lanka
       title: Research and Development Project Engineer
       started: 2014
       duration: (May 2014 - February 2015)
-      description: I have done my final year reserach and development project here.
+      description: I have done my final year research and development project here. Our project is "Ruchi".  Ruchi is focused on implementing a system for the recommendation of individual food items in each restaurant by analyzing customer reviews. It combines the techniques of
+                   machine learning, natural language processing, and information retrieval. We used Name Entity Recognition, Sentiment analysis, Ranking Models to extract reviews, analyses sentiment of reviews and opinions and rank the food items with respect to opinion.
     - work4:
-      company: University of Moratuwa
+      company: Ironone Technologies (Pvt) Ltd.
       location: Colombo, Sri Lanka
       title: Associate Software Engineer
       started: 2013
       duration: (November 2013 - April 2014)
-      description: Add Here!
+      description: In IronOne I have worked in two projects called "ClaimsOne" and "mLearning". "ClaimsOne" is an android application which is used to claim insurance on the spot. Then I worked in "mLearning",  Cisco WebEx meeting center was integrated for an improved live lecture capability between University lectures and students.
     - work4:
       company: ATUTS (Pvt) Ltd.
       location: Colombo, Sri Lanka
       title: Trainee Software Engineer
       started: 2012
       duration: (November 2012 - October 2013)
-      description: ATUTS is a start-up company with about 10 employess. I started my career there as a Trainee Software Engineer. Here I worked in two projects. First one is a Web Application called FundtheNeedy. We used Spring Framework, JSP, Hibernate, MySQL in this project.
+      description: ATUTS is a start-up company with about 10 employees. I started my career there as a Trainee Software Engineer. Here I worked on two projects. First one is a Web Application called FundtheNeedy. We used Spring Framework, JSP, Hibernate, MySQL in this project.
   educationHistory:
     - education1:
       organization: University of Moratuwa
