@@ -41,7 +41,7 @@ author:
       title: Visiting Instructor
       started: 2014
       duration: (November 2014 - April 2015)
-      description: Worked as Instructor for python module.
+      description: Worked as Instructor to teach Programming Fundamentals and Python Language.
     - work3:
       company: University of Moratuwa
       location: Colombo, Sri Lanka
@@ -62,7 +62,7 @@ author:
       title: Trainee Software Engineer
       started: 2012
       duration: (November 2012 - October 2013)
-      description: Add Here!
+      description: ATUTS is a start-up company with about 10 employess. I started my career there as a Trainee Software Engineer. Here I worked in two projects. First one is a Web Application called FundtheNeedy. We used Spring Framework, JSP, Hibernate, MySQL in this project.
   educationHistory:
     - education1: BSc. (Hons) Computer Science and Engineering
       organization: University of Moratuwa
