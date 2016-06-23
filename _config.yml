@@ -1,7 +1,7 @@
 # Site settings
 title: Burusothman Ahiladas 
 description: CV
-favicon: /assets/img/burusoth.JPG
+favicon: /assets/img/burusoth.jpg
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: brusoth09
   linkedin: https://lk.linkedin.com/in/burusoth
   twitter: brusoth09
-  gavatar: /resumecard/assets/img/burusoth.JPG
+  gavatar: /resumecard/assets/img/burusoth.jpg
   stackoverflow: exbury
 #  stackoverflow: 4582127
   workHistory:
