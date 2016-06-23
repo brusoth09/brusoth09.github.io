@@ -1,7 +1,7 @@
 # Site settings
 title: Burusothman Ahiladas 
 description: CV
-favicon: /assets/img/burusoth.jpg
+favicon: /assets/img/favicon.icon
 baseurl: https://brusoth09.github.io/
 url: https://brusoth09.github.io/
 rss_url: /pages/atom.xml
