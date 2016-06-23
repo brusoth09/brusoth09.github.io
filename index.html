@@ -217,22 +217,20 @@ layout: default
                 {% endif %}
                 {% if site.author.programmingSkills %}
                 <div class="grid-block">
-                    <ul class="list-unstyled list-skills">
                         {% for programmingSkill in site.author.programmingSkills %}
-                            <li>
+                            <div class="grid-block">
                                 {% if programmingSkill.name %}
-                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
+                                    <h3 class="title">{{ programmingSkill.name }}</h3>
                                 {% endif %}
-                                {% if programmingSkill.percentage %}
-                                    <div class="progress">
-                                        <div class="progress-bar" style="width: {{ programmingSkill.percentage }}">
-                                            <span>{{ programmingSkill.percentage }} </span>
-                                        </div>
-                                    </div>
+                                {% if programmingSkill.skills %}
+                                <div>
+                                    {% for skill in programmingSkill.skills %}
+                                        <span class="badge">{{skill.name}}</span>
+                                    {% endfor %}
+                                </div>
                                 {% endif %}
-                            </li>
+                            </div>
                         {% endfor %}
-                    </ul>
                 </div>
                 {% endif %}
             {% endif %}
