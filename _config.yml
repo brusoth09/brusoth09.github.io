@@ -86,16 +86,16 @@ author:
     - category1:
       name: Languages
       skills:
-        skill1:
+        - skill1:
           name: Java
-        skill2:
+        - skill2:
           name: C
     - category1:
       name: Web Development
       skills:
-       skill1:
+       - skill1:
          name: Java
-       skill2:
+       - skill2:
          name: C
 
 
