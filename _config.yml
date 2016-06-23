@@ -42,21 +42,35 @@ author:
       duration: (November 2014 - April 2015)
       description: Worked as Instructor for python module.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: University of Moratuwa
+      location: Colombo, Sri Lanka
+      title: Research and Development Project Engineer
+      started: 2014
+      duration: (May 2014 - February 2015)
+      description: I have done my final year reserach and development project here.
+    - work4:
+      company: University of Moratuwa
+      location: Colombo, Sri Lanka
+      title: Associate Software Engineer
+      started: 2013
+      duration: (November 2013 - April 2014)
+      description: Add Here!
+    - work4:
+      company: ATUTS (Pvt) Ltd.
+      location: Colombo, Sri Lanka
+      title: Trainee Software Engineer
+      started: 2012
+      duration: (November 2012 - October 2013)
+      description: Add Here!
   educationHistory:
-    - education1:
-      organization: Northeastern University
-      location: Shenyang, China
+    - education1: BSc. (Hons) Computer Science and Engineering
+      organization: University of Moratuwa
+      location: Moratuwa, Sri Lanka
       degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      major: Associate Software Engineer
+      started: 2010
+      duration: (2010 - 2015)
+      description: Add here!
   languages:
     - language1:
       name: Tamil
