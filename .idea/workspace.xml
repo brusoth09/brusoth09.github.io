@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ceb071e-de5e-4fb3-8114-c71cd4d11819" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="brusoth09.github.io.iws" />
@@ -28,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -38,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.40665874">
-              <caret line="223" column="54" selection-start-line="223" selection-start-column="54" selection-end-line="223" selection-end-column="54" />
+              <caret line="223" column="62" selection-start-line="223" selection-start-column="49" selection-end-line="223" selection-end-column="62" />
               <folding>
                 <element signature="e#5720#8713#0" expanded="false" />
                 <element signature="e#8765#9055#0" expanded="false" />
@@ -705,12 +706,12 @@
       <created>1466676064126</created>
       <option name="number" value="Default" />
       <updated>1466676064126</updated>
-      <workItem from="1466676065279" duration="3426000" />
+      <workItem from="1466676065279" duration="3853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3426000" />
+    <option name="totallyTimeSpent" value="3853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-157" width="1920" height="1010" extended-state="0" />
@@ -749,14 +750,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/googleanalytics.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -797,10 +790,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40665874">
-          <caret line="223" column="54" selection-start-line="223" selection-start-column="54" selection-end-line="223" selection-end-column="54" />
+          <caret line="223" column="62" selection-start-line="223" selection-start-column="49" selection-end-line="223" selection-end-column="62" />
           <folding>
             <element signature="e#5720#8713#0" expanded="false" />
             <element signature="e#8765#9055#0" expanded="false" />
