@@ -64,11 +64,11 @@ author:
       duration: (November 2012 - October 2013)
       description: ATUTS is a start-up company with about 10 employess. I started my career there as a Trainee Software Engineer. Here I worked in two projects. First one is a Web Application called FundtheNeedy. We used Spring Framework, JSP, Hibernate, MySQL in this project.
   educationHistory:
-    - education1: BSc. (Hons) Computer Science and Engineering
+    - education1:
       organization: University of Moratuwa
       location: Moratuwa, Sri Lanka
       degree: Bachelor
-      major: Associate Software Engineer
+      major: BSc. (Hons) Computer Science and Engineering
       started: 2010
       duration: (2010 - 2015)
       description: Add here!
@@ -113,5 +113,80 @@ author:
           name: Java Script
         - skill6:
           name: JQuery
+    - category3:
+      name: Big Data
+      skills:
+        - skill1:
+          name: Hadoop
+        - skill2:
+          name: HBase
+        - skill3:
+          name: Hive
+        - skill4:
+          name: Pig
+        - skill5:
+          name: Elastic Search
+        - skill6:
+          name: AWS
+    - category4:
+      name: Databases & ORM
+      skills:
+        - skill1:
+          name: HBase
+        - skill2:
+          name: MongoDB
+        - skill3:
+          name: MySQL
+        - skill4:
+          name: Oracle Database
+        - skill5:
+          name: Hibernate
+        - skill6:
+          name: Doctrine
+    - category5:
+      name: Frame Works
+      skills:
+        - skill1:
+          name: Spring
+        - skill2:
+          name: Play
+        - skill3:
+          name: Struts 2
+        - skill4:
+          name: Symfony 2
+    - category6:
+      name: Analysis
+      skills:
+        - skill1:
+          name: Natural Language Processing
+        - skill2:
+          name: Sentiment analysis
+        - skill3:
+          name: Data Mining
+        - skill4:
+          name: Machine Learning
+    - category7:
+      name: IDE and Tools
+      skills:
+        - skill1:
+          name: TDD
+        - skill2:
+          name: JUnit
+        - skill3:
+          name: TestNG
+        - skill4:
+          name: Mockito
+    - category8:
+      name: Application Servers
+      skills:
+        - skill1:
+          name: Tomcat
+        - skill2:
+          name: Jetty
+        - skill3:
+          name: JBoss
+
+
+
 
 
