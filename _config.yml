@@ -1,7 +1,7 @@
 # Site settings
 title: Burusothman Ahiladas 
 description: CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/burusoth.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -22,7 +22,7 @@ author:
   weibo:
   github: brusoth09
   linkedin: https://lk.linkedin.com/in/burusoth
-  twitter: 
+  twitter: brusoth09
   gavatar: /resumecard/assets/img/burusoth.JPG
   stackoverflow: exbury
 #  stackoverflow: 4582127
@@ -31,16 +31,16 @@ author:
       company: Zone24x7 (Pvt) Ltd.
       location: Colombo, Sri Lanka
       title: Software Engineer
-      started: April 2015
+      started: 2015
       duration: (April 2015 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Zone24x7 is one of the technology solution company which provides hardware and software solutions.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: University of Moratuwa
+      location: Colombo, Sri Lanka
+      title: Visiting Instructor
+      started: 2014
+      duration: (November 2014 - April 2015)
+      description: Worked as Instructor for python module.
     - work3:
       company: Citigroup Services and Technology (China) Limited
       location: Shanghai, China
@@ -59,13 +59,13 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Tamil
       proficiency: Native
     - language2:
       name: English
       proficiency: Professional
     - language3:
-      name: Japanese
+      name: Sinhala
       proficiency: Limit
   programmingSkills:
     - skill1:
