@@ -84,18 +84,34 @@ author:
       proficiency: Limit
   programmingSkills:
     - category1:
-      name: Languages
+      name: Programming
       skills:
         - skill1:
           name: Java
         - skill2:
           name: C
-    - category1:
+        - skill3:
+          name: PHP
+        - skill4:
+          name: C#
+        - skill5:
+          name: Shell Script
+        - skill6:
+          name: Scala
+    - category2:
       name: Web Development
       skills:
-       - skill1:
-         name: Java
-       - skill2:
-         name: C
+        - skill1:
+          name: J2EE
+        - skill2:
+          name: JSP
+        - skill3:
+          name: Servlets
+        - skill4:
+          name: CSS
+        - skill5:
+          name: Java Script
+        - skill6:
+          name: JQuery
 
 
