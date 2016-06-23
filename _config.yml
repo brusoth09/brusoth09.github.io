@@ -84,7 +84,7 @@ author:
       proficiency: Limit
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Core Java
       percentage: 100%
     - skill2:
       name: Bootstrap
