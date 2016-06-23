@@ -6,7 +6,7 @@ baseurl: https://brusoth09.github.io/
 url: https://brusoth09.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
-cv-path: /assets/doc/Burusoth_Ahiladas.pdf
+cv-path: /assets/docs/Burusoth_Ahiladas.pdf
 
 # Build settings
 markdown: kramdown
