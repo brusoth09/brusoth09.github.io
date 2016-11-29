@@ -49,7 +49,7 @@ hr {
 
 .header {
     background-color: #00B16A;
-    /*background-image: url(../img/bg-top.jpg);*/
+    background-image: url(../img/bg-top.jpg);
     border-bottom: 1px solid #dddddd;
     box-shadow: 0 0 3px rgba(190, 190, 190, 0.75);
     top: 0;
